@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Bll/Bll.csproj" DisplayName="BLL" Id="f1a119a4-3cef-4cd3-83dc-8acb5463fe41" />
+  <Project Path="DAL/DAL.csproj" Id="365fc77f-647e-4d40-9545-8b49c8060231" />
+  <Project Path="DTO/DTO.csproj" Id="70d32247-e062-4634-87bc-27c17816c282" />
+  <Project Path="Mini_POS/1Mini_POS.csproj" Id="32480856-4eba-4597-b5fc-380ea386333d" />
+  <Project Path="MyCustomControls/MyCustomControls.csproj" Id="d44b8450-496d-4815-a1d8-b941b06b272d" />
+</Solution>
