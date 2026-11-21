@@ -53,4 +53,4 @@ Download the SQL Server database backup file and restore it in **SQL Server Mana
 Open `dalSettings.cs` inside the **DAL** project and update the connection string to match your SQL Server name:
 
 ```csharp
-public static string ConnectionString = "Server=YOUR_SERVER_NAME;Database=MahallyPOS;Integrated Security=True;";
+public static string ConnectionString = "Server=YOUR_SERVER_NAME;Database=MahallyPOS;User Id=ID; Password=PASSWORD;";
