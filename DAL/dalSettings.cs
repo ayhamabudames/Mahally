@@ -8,6 +8,6 @@ namespace DAL
 {
     public class dalSettings
     {
-        public static string ConnectionString { get; } = "Server=.; Database=MiniPOS_DB; User Id=sa; Password=sa123456;";
+        public static string ConnectionString { get; } = "YOUR_CONNECTION_STRING";
     }
 }
